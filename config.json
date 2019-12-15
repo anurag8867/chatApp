@@ -1,0 +1,9 @@
+{
+  "server": {
+    "PORT": 4000
+  },
+  "databaseName" : "chat",
+  "collectionName" : {
+    "tasks": "tasks"
+  }
+}
